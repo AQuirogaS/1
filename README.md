@@ -3,9 +3,9 @@ Analía Quiroga
 <p>Gabriel Mondaca</p>
 <p>Franco Carricart</p>
 <p>Mathilde Berthet</p>
-Juan Pegorin
+<p>Juan Pegorin</p>
 
-Profesores
+<p>Profesores</p>
 <h1>
   R. Palma
   A. Gomez
