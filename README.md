@@ -1,8 +1,8 @@
 # TP1_2022
 Analía Quiroga
-Gabriel Mondaca
-Franco Carricart
-Mathilde Berthet
+<p>Gabriel Mondaca</p>
+<p>Franco Carricart</p>
+<p>Mathilde Berthet</p>
 Juan Pegorin
 
 Profesores
